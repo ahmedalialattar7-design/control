@@ -1,5 +1,20 @@
 [
   {
+    "name": "airpods pro",
+    "brand": "other",
+    "cat": "offers",
+    "accMain": "",
+    "accSub": "",
+    "isOffer": true,
+    "price": 250,
+    "priceText": "250 جنيه",
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQYqsUPBfiDjM4Qe73hpY4nvNfn862ruM1rwUwGf1iFd9w2F8MkStJoPB_sTZdRplyt7SihW6rzxrtvcruIUHcwDUOlPnJW_lN_yaD1J21SZIFQxxJ_8bseoQ&usqp=CAc",
+    "cpu": "عرض لفتره محدوده 250 بدل 350",
+    "cam": "-",
+    "screen": "-",
+    "bat": "-"
+  },
+  {
     "name": "OPPO A6x 4G - 64 + 4",
     "brand": "oppo",
     "cat": "mobiles",
